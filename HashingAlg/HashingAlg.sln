@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingAlg", "HashingAlg\HashingAlg.csproj", "{6BE04BF7-E6D2-4B76-8038-5574DAFD98BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE04BF7-E6D2-4B76-8038-5574DAFD98BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE04BF7-E6D2-4B76-8038-5574DAFD98BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE04BF7-E6D2-4B76-8038-5574DAFD98BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE04BF7-E6D2-4B76-8038-5574DAFD98BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871A8D09-972D-462C-925E-2BDE0A9078D3}
+	EndGlobalSection
+EndGlobal
